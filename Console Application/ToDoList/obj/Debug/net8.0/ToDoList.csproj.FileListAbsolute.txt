@@ -1,0 +1,15 @@
+D:\OneDrive\Projetos\Visual Studio\CSharp\Console Application\ToDoList\bin\Debug\net8.0\ToDoList.exe
+D:\OneDrive\Projetos\Visual Studio\CSharp\Console Application\ToDoList\bin\Debug\net8.0\ToDoList.deps.json
+D:\OneDrive\Projetos\Visual Studio\CSharp\Console Application\ToDoList\bin\Debug\net8.0\ToDoList.runtimeconfig.json
+D:\OneDrive\Projetos\Visual Studio\CSharp\Console Application\ToDoList\bin\Debug\net8.0\ToDoList.dll
+D:\OneDrive\Projetos\Visual Studio\CSharp\Console Application\ToDoList\bin\Debug\net8.0\ToDoList.pdb
+D:\OneDrive\Projetos\Visual Studio\CSharp\Console Application\ToDoList\obj\Debug\net8.0\ToDoList.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\Projetos\Visual Studio\CSharp\Console Application\ToDoList\obj\Debug\net8.0\ToDoList.AssemblyInfoInputs.cache
+D:\OneDrive\Projetos\Visual Studio\CSharp\Console Application\ToDoList\obj\Debug\net8.0\ToDoList.AssemblyInfo.cs
+D:\OneDrive\Projetos\Visual Studio\CSharp\Console Application\ToDoList\obj\Debug\net8.0\ToDoList.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projetos\Visual Studio\CSharp\Console Application\ToDoList\obj\Debug\net8.0\ToDoList.sourcelink.json
+D:\OneDrive\Projetos\Visual Studio\CSharp\Console Application\ToDoList\obj\Debug\net8.0\ToDoList.dll
+D:\OneDrive\Projetos\Visual Studio\CSharp\Console Application\ToDoList\obj\Debug\net8.0\refint\ToDoList.dll
+D:\OneDrive\Projetos\Visual Studio\CSharp\Console Application\ToDoList\obj\Debug\net8.0\ToDoList.pdb
+D:\OneDrive\Projetos\Visual Studio\CSharp\Console Application\ToDoList\obj\Debug\net8.0\ToDoList.genruntimeconfig.cache
+D:\OneDrive\Projetos\Visual Studio\CSharp\Console Application\ToDoList\obj\Debug\net8.0\ref\ToDoList.dll

@@ -1,0 +1,15 @@
+D:\OneDrive\Projetos\Visual Studio\CSharp\Console Application\ExemploFuncoes\obj\Debug\net8.0\ExemploFuncoes.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\Projetos\Visual Studio\CSharp\Console Application\ExemploFuncoes\obj\Debug\net8.0\ExemploFuncoes.AssemblyInfoInputs.cache
+D:\OneDrive\Projetos\Visual Studio\CSharp\Console Application\ExemploFuncoes\obj\Debug\net8.0\ExemploFuncoes.AssemblyInfo.cs
+D:\OneDrive\Projetos\Visual Studio\CSharp\Console Application\ExemploFuncoes\obj\Debug\net8.0\ExemploFuncoes.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projetos\Visual Studio\CSharp\Console Application\ExemploFuncoes\obj\Debug\net8.0\ExemploFuncoes.sourcelink.json
+D:\OneDrive\Projetos\Visual Studio\CSharp\Console Application\ExemploFuncoes\bin\Debug\net8.0\ExemploFuncoes.exe
+D:\OneDrive\Projetos\Visual Studio\CSharp\Console Application\ExemploFuncoes\bin\Debug\net8.0\ExemploFuncoes.deps.json
+D:\OneDrive\Projetos\Visual Studio\CSharp\Console Application\ExemploFuncoes\bin\Debug\net8.0\ExemploFuncoes.runtimeconfig.json
+D:\OneDrive\Projetos\Visual Studio\CSharp\Console Application\ExemploFuncoes\bin\Debug\net8.0\ExemploFuncoes.dll
+D:\OneDrive\Projetos\Visual Studio\CSharp\Console Application\ExemploFuncoes\bin\Debug\net8.0\ExemploFuncoes.pdb
+D:\OneDrive\Projetos\Visual Studio\CSharp\Console Application\ExemploFuncoes\obj\Debug\net8.0\ExemploFuncoes.dll
+D:\OneDrive\Projetos\Visual Studio\CSharp\Console Application\ExemploFuncoes\obj\Debug\net8.0\refint\ExemploFuncoes.dll
+D:\OneDrive\Projetos\Visual Studio\CSharp\Console Application\ExemploFuncoes\obj\Debug\net8.0\ExemploFuncoes.pdb
+D:\OneDrive\Projetos\Visual Studio\CSharp\Console Application\ExemploFuncoes\obj\Debug\net8.0\ExemploFuncoes.genruntimeconfig.cache
+D:\OneDrive\Projetos\Visual Studio\CSharp\Console Application\ExemploFuncoes\obj\Debug\net8.0\ref\ExemploFuncoes.dll
