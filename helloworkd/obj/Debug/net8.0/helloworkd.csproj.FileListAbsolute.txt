@@ -1,0 +1,14 @@
+D:\OneDrive\Projetos\Visual Studio\CSharp\helloworkd\bin\Debug\net8.0\helloworkd.exe
+D:\OneDrive\Projetos\Visual Studio\CSharp\helloworkd\bin\Debug\net8.0\helloworkd.deps.json
+D:\OneDrive\Projetos\Visual Studio\CSharp\helloworkd\bin\Debug\net8.0\helloworkd.runtimeconfig.json
+D:\OneDrive\Projetos\Visual Studio\CSharp\helloworkd\bin\Debug\net8.0\helloworkd.dll
+D:\OneDrive\Projetos\Visual Studio\CSharp\helloworkd\bin\Debug\net8.0\helloworkd.pdb
+D:\OneDrive\Projetos\Visual Studio\CSharp\helloworkd\obj\Debug\net8.0\helloworkd.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\Projetos\Visual Studio\CSharp\helloworkd\obj\Debug\net8.0\helloworkd.AssemblyInfoInputs.cache
+D:\OneDrive\Projetos\Visual Studio\CSharp\helloworkd\obj\Debug\net8.0\helloworkd.AssemblyInfo.cs
+D:\OneDrive\Projetos\Visual Studio\CSharp\helloworkd\obj\Debug\net8.0\helloworkd.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projetos\Visual Studio\CSharp\helloworkd\obj\Debug\net8.0\helloworkd.dll
+D:\OneDrive\Projetos\Visual Studio\CSharp\helloworkd\obj\Debug\net8.0\refint\helloworkd.dll
+D:\OneDrive\Projetos\Visual Studio\CSharp\helloworkd\obj\Debug\net8.0\helloworkd.pdb
+D:\OneDrive\Projetos\Visual Studio\CSharp\helloworkd\obj\Debug\net8.0\helloworkd.genruntimeconfig.cache
+D:\OneDrive\Projetos\Visual Studio\CSharp\helloworkd\obj\Debug\net8.0\ref\helloworkd.dll
