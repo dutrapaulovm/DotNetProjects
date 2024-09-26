@@ -6,6 +6,7 @@
 
         for (int i = 0; i < 5; i++)
         {
+
             Console.Write("Digite seu nome: ");
             string? nome = Console.ReadLine();
             nomes.Add(nome!);
