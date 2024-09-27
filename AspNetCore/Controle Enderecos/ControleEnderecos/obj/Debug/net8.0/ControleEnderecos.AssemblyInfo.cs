@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ControleEnderecos")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0ff6fd1118880432a652a83ce0d675993ef4dc15")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+971833fb46ea35b66f01ec11e8196e09d87d08ae")]
 [assembly: System.Reflection.AssemblyProductAttribute("ControleEnderecos")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ControleEnderecos")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
